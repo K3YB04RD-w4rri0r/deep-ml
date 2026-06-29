@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T14:09:51.360Z",
+  "generated_at": "2026-10-04T15:01:08.150Z",
   "items": {
     "problem:803": {
       "kind": "problem",
@@ -48,6 +48,19 @@
       "path": "math/0127-precision-and-recall-at-a-threshold",
       "first_solved_at": "2026-10-04T14:09:50.817Z",
       "last_pushed_at": "2026-10-04T14:09:50.817Z"
+    },
+    "problem:116": {
+      "kind": "problem",
+      "id": "116",
+      "title": "Derivative of a Polynomial",
+      "difficulty": "easy",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/116",
+      "path": "problems/0116-derivative-of-a-polynomial",
+      "first_solved_at": "2026-06-29T10:10:03.661Z",
+      "last_pushed_at": "2026-06-29T10:10:03.661Z",
+      "language": "python",
+      "lines": 5
     }
   }
 }
