@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T15:01:08.150Z",
+  "generated_at": "2026-10-04T15:01:10.217Z",
   "items": {
     "problem:803": {
       "kind": "problem",
@@ -61,6 +61,56 @@
       "last_pushed_at": "2026-06-29T10:10:03.661Z",
       "language": "python",
       "lines": 5
+    },
+    "problem:1076": {
+      "kind": "problem",
+      "id": "1076",
+      "title": "Backpropagation Gradients for a Dense Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1076",
+      "path": "problems/1076-backpropagation-gradients-for-a-dense-layer",
+      "first_solved_at": "2026-09-29T19:23:22.681Z",
+      "last_pushed_at": "2026-09-29T19:23:22.681Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-09-29T19:30:48.069Z",
+      "last_pushed_at": "2026-09-29T19:30:48.069Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:328": {
+      "kind": "problem",
+      "id": "328",
+      "title": "Vector Norms (L1/L2/L-inf) and the Frobenius Norm",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/328",
+      "path": "problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm",
+      "first_solved_at": "2026-09-29T19:38:23.732Z",
+      "last_pushed_at": "2026-09-29T19:38:23.732Z",
+      "language": "python",
+      "lines": 29
+    },
+    "math:30": {
+      "kind": "math",
+      "id": "30",
+      "title": "ML Workflow Basics",
+      "difficulty": "easy",
+      "category": "Supervised learning setup",
+      "url": "https://www.deep-ml.com/math-problems/30",
+      "path": "math/0030-ml-workflow-basics",
+      "first_solved_at": "2026-09-29T19:52:20.359Z",
+      "last_pushed_at": "2026-09-29T19:52:20.359Z"
     }
   }
 }
