@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T15:01:10.217Z",
+  "generated_at": "2026-10-04T15:01:12.045Z",
   "items": {
     "problem:803": {
       "kind": "problem",
@@ -111,6 +111,63 @@
       "path": "math/0030-ml-workflow-basics",
       "first_solved_at": "2026-09-29T19:52:20.359Z",
       "last_pushed_at": "2026-09-29T19:52:20.359Z"
+    },
+    "math:34": {
+      "kind": "math",
+      "id": "34",
+      "title": "Least Squares and the Normal Equations",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/34",
+      "path": "math/0034-least-squares-and-the-normal-equations",
+      "first_solved_at": "2026-09-30T08:29:49.264Z",
+      "last_pushed_at": "2026-09-30T08:29:49.264Z"
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-09-30T08:31:12.121Z",
+      "last_pushed_at": "2026-09-30T08:31:12.121Z"
+    },
+    "math:18": {
+      "kind": "math",
+      "id": "18",
+      "title": "Descriptive Statistics",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/18",
+      "path": "math/0018-descriptive-statistics",
+      "first_solved_at": "2026-09-30T08:34:10.417Z",
+      "last_pushed_at": "2026-09-30T08:34:10.417Z"
+    },
+    "math:33": {
+      "kind": "math",
+      "id": "33",
+      "title": "Expectation and Variance Algebra",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/33",
+      "path": "math/0033-expectation-and-variance-algebra",
+      "first_solved_at": "2026-09-30T08:35:09.344Z",
+      "last_pushed_at": "2026-09-30T08:35:09.344Z"
+    },
+    "problem:1058": {
+      "kind": "problem",
+      "id": "1058",
+      "title": "Random Train/Validation/Test Split with Shuffling",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1058",
+      "path": "problems/1058-random-train-validation-test-split-with-shuffling",
+      "first_solved_at": "2026-09-30T08:41:04.175Z",
+      "last_pushed_at": "2026-09-30T08:41:04.175Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
