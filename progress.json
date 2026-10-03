@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T18:25:58.441Z",
+  "generated_at": "2026-10-03T18:29:04.489Z",
   "items": {
     "problem:803": {
       "kind": "problem",
@@ -13,6 +13,17 @@
       "last_pushed_at": "2026-10-03T18:25:54.014Z",
       "language": "python",
       "lines": 25
+    },
+    "math:31": {
+      "kind": "math",
+      "id": "31",
+      "title": "Regularization and Generalization",
+      "difficulty": "medium",
+      "category": "Bias-variance and L2 penalty",
+      "url": "https://www.deep-ml.com/math-problems/31",
+      "path": "math/0031-regularization-and-generalization",
+      "first_solved_at": "2026-10-03T18:29:03.992Z",
+      "last_pushed_at": "2026-10-03T18:29:03.992Z"
     }
   }
 }
