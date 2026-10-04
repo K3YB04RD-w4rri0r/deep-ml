@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T15:01:16.090Z",
+  "generated_at": "2026-10-04T15:15:19.752Z",
   "items": {
     "problem:803": {
       "kind": "problem",
@@ -361,6 +361,17 @@
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-10-04T15:01:16.089Z",
       "last_pushed_at": "2026-10-04T15:01:16.089Z"
+    },
+    "math:128": {
+      "kind": "math",
+      "id": "128",
+      "title": "AUC as the Probability of Ranking a Positive Above a Negative",
+      "difficulty": "medium",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/128",
+      "path": "math/0128-auc-as-the-probability-of-ranking-a-positive-above-a-negative",
+      "first_solved_at": "2026-10-04T15:15:19.183Z",
+      "last_pushed_at": "2026-10-04T15:15:19.183Z"
     }
   }
 }
