@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T15:20:12.474Z",
+  "generated_at": "2026-10-09T20:05:32.231Z",
   "items": {
     "problem:803": {
       "kind": "problem",
@@ -385,6 +385,17 @@
       "last_pushed_at": "2026-10-04T15:20:11.661Z",
       "language": "python",
       "lines": 23
+    },
+    "math:40": {
+      "kind": "math",
+      "id": "40",
+      "title": "Logistic Regression as Maximum Likelihood",
+      "difficulty": "medium",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/40",
+      "path": "math/0040-logistic-regression-as-maximum-likelihood",
+      "first_solved_at": "2026-10-09T20:05:31.606Z",
+      "last_pushed_at": "2026-10-09T20:05:31.606Z"
     }
   }
 }
