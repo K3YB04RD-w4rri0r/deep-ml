@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T20:05:32.231Z",
+  "generated_at": "2026-10-10T20:58:09.795Z",
   "items": {
     "problem:803": {
       "kind": "problem",
@@ -396,6 +396,19 @@
       "path": "math/0040-logistic-regression-as-maximum-likelihood",
       "first_solved_at": "2026-10-09T20:05:31.606Z",
       "last_pushed_at": "2026-10-09T20:05:31.606Z"
+    },
+    "problem:134": {
+      "kind": "problem",
+      "id": "134",
+      "title": "Compute Multi-class Cross-Entropy Loss",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/134",
+      "path": "problems/0134-compute-multi-class-cross-entropy-loss",
+      "first_solved_at": "2026-10-10T20:58:08.423Z",
+      "last_pushed_at": "2026-10-10T20:58:08.423Z",
+      "language": "python",
+      "lines": 5
     }
   }
 }
