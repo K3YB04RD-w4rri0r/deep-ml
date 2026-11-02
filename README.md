@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**36** solved · 12 problems · 0 labs · 24 math
+**37** solved · 13 problems · 0 labs · 24 math
 
 ![Coverage](./coverage.svg)
 
@@ -24,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Backpropagation Gradients for a Dense Layer](https://www.deep-ml.com/problems/1076) | medium | 2026-09-29 | [solution](problems/1076-backpropagation-gradients-for-a-dense-layer) |
 | [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-10-03 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
 | [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-10-02 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
+| [Train Softmax Regression with Gradient Descent](https://www.deep-ml.com/problems/105) | hard | 2026-11-02 | [solution](problems/0105-train-softmax-regression-with-gradient-descent) |
 
 ## Math
 
